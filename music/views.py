@@ -6,7 +6,12 @@ from .models import Album
 
 def index(request):
     all_albums = Album.objects.all()
-    return render(request(request, "music/index.html", {'all_albums': all_albums}))
+    # return render(request(request, "music/index.html", {'all_albums': all_albums}))A
+    template = loader.get_template('music/index.html')
+    context = {
+    	'all_albums': all_albums,
+    }
+    return HttpResponse(template.render(context, request))
 
 
 def detail(request, album_id):
