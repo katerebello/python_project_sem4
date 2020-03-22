@@ -11,3 +11,5 @@ urlpatterns = [
     url(r'^music/', include('music.urls')),
 ]
 
+urlpatterns += staticfiles_urlpatterns()
+
