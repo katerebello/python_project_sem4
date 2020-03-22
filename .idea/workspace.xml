@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YvzC7x6sxAdzFgHT0IoeRpF72H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +27,8 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../registry" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,29 +43,36 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="274" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584016835746">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="274" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584016835746" />
-    <state x="644" y="138" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584015890878">
+    <state x="644" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584856908717">
+      <screen x="0" y="42" width="1366" height="686" />
+    </state>
+    <state x="644" y="138" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584186756699" />
+    <state x="644" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.42.1366.686@0.42.1366.686" timestamp="1584856908717" />
+    <state x="646" y="112" key="FileChooserDialogImpl" timestamp="1584370346137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="644" y="138" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584015890878" />
-    <state x="644" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.42.1366.686@0.42.1366.686" timestamp="1583844035661" />
-    <state x="646" y="112" key="FileChooserDialogImpl" timestamp="1583837809142">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="646" y="112" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584370346137" />
+    <state x="368" y="24" key="SettingsEditor" timestamp="1584338183374">
+      <screen x="0" y="42" width="1366" height="686" />
     </state>
-    <state x="646" y="112" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583837809142" />
+    <state x="368" y="24" key="SettingsEditor/0.42.1366.686@0.42.1366.686" timestamp="1584338183374" />
     <state width="498" height="398" key="SwitcherDM" timestamp="1583838068172">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1583838068172" />
-    <state x="725" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1584119062917">
-      <screen x="0" y="42" width="1366" height="686" />
+    <state x="725" y="156" key="com.intellij.ide.util.TipDialog" timestamp="1584854484313">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="725" y="156" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584113969302" />
-    <state x="725" y="189" key="com.intellij.ide.util.TipDialog/0.42.1366.686@0.42.1366.686" timestamp="1584119062917" />
+    <state x="725" y="156" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584854484313" />
+    <state x="725" y="189" key="com.intellij.ide.util.TipDialog/0.42.1366.686@0.42.1366.686" timestamp="1584441644443" />
     <state x="684" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584114259708">
       <screen x="0" y="42" width="1366" height="686" />
     </state>
